@@ -4,7 +4,7 @@ Currently this is a work in progress. Repos will go online as soon as preliminar
 
 If you belong to a law enforcement agency and want to join efforts please contact us at openpol@openpol.org
 
-The main goal of this project is to promote the use, development and dissemination of open source software in public administration to achieve the following **objectives**:
+The main goal of this project is to promote the use, development and spreading of open source software in public administration to achieve the following **objectives**:
 
 * Improve economic and productive efficiency.
 * Reuse of ideas and efforts.
